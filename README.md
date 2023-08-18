@@ -1,4 +1,4 @@
-![Screenshot_20230816_130339](https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/6dec4089-24cc-4376-b5f7-e84ba9be16b6)# Google Ads (AdMob) Demo in Kotlin
+# Google Ads (AdMob) Demo in Kotlin
 
 This project serves as a comprehensive showcase of various ad formats available through Google Ads (AdMob) integration in Android apps using Kotlin. By exploring this demo, you'll gain a clear understanding of how to implement different types of ads to enhance your app's monetization and user engagement strategies.
 
