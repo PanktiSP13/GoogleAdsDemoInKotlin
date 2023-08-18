@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/banner_ad"
+            android:gravity="center" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/bannerAdViewBANNER"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center_horizontal"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/bannerAdViewLARGE_BANNER"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="LARGE_BANNER"
+            android:layout_gravity="center_horizontal"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/bannerAdViewMEDIUM_RECTANGLE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="MEDIUM_RECTANGLE"
+            android:layout_gravity="center_horizontal"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/bannerAdViewSMART_BANNER"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            android:layout_gravity="center_horizontal"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111" />
+    </LinearLayout>
+</layout>

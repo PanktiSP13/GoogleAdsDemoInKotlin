@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GoogleAdsDemo</string>
+    <string name="banner_ad">Banner Ad</string>
+    <string name="banner_ads">Banner Ads</string>
+    <string name="interstitial_ads">Interstitial Ads</string>
+    <string name="native_ads">Native Ads</string>
+    <string name="rewarded_ads">Rewarded Ads</string>
+    <string name="show_ad">Show Ad</string>
+    <string name="video_status">Video status:</string>
+    <string name="refresh_ad">Refresh Ad</string>
+    <string name="start_video_ads_muted">Start video ads muted</string>
+    <string name="video_status_ad_does_not_contain_a_video_asset">Video status: Ad does not contain a video asset.</string>
+    <string name="video_status_video_playback_has_ended">Video status: Video playback has ended.</string>
+    <string name="show_rewarded_ads">Show Rewarded Ads</string>
+    <string name="show_rewarded_interstitial_ads">Show Rewarded Interstitial Ads</string>
+    <string name="rewarded_interstitial_ads">Rewarded Interstitial Ads</string>
+    <string name="adaptive_banner_ads">Adaptive Banner Ads</string>
+    <string name="app_open_ads">App Open Ads</string>
+    <string name="user_name">User Name</string>
+    <string name="lorem_des">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>

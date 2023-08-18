@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="20dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnBannerAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/banner_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAdaptiveBannerAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/adaptive_banner_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnInterstitialAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/interstitial_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNativeAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/native_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnRewardedAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rewarded_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnRewardedInterstitialAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rewarded_interstitial_ads"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAppOpenAds"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_open_ads"/>
+    </LinearLayout>
+</layout>
