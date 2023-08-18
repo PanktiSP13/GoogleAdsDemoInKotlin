@@ -1,4 +1,4 @@
-# Google Ads (AdMob) Demo in Kotlin
+![Screenshot_20230816_130339](https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/6dec4089-24cc-4376-b5f7-e84ba9be16b6)# Google Ads (AdMob) Demo in Kotlin
 
 This project serves as a comprehensive showcase of various ad formats available through Google Ads (AdMob) integration in Android apps using Kotlin. By exploring this demo, you'll gain a clear understanding of how to implement different types of ads to enhance your app's monetization and user engagement strategies.
 
@@ -34,12 +34,13 @@ Explore the app to see different ad formats in action. Each section of the app d
 
 ## Screenshots
 
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bf13315-5da0-4902-9b26-53fc5774b312" width="200">
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/8bf8a3ec-ce0f-45e7-9e66-6bb112b5f3f3" width="200">
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/9e9fba2d-ac6e-4eed-84d1-daadd526bf57" width="200">
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bb819de-8ffa-4e76-a06c-db8ca0980b63" width="200">
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/e33d13a2-4e88-41c1-b33e-1d54a65fad3d" width="200">
-<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/24e2f3f2-0776-43bd-9a46-96af896e5349" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/34768deb-b749-4fd6-b1c0-6245e4527f41" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/08097756-07a0-47b3-bd8d-d1a17c56d6ea" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/d438aba7-8e3e-4281-b50c-53638c6322b9" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/a60f8314-7f8f-432a-82ad-55b1658996fa" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/c9b5107b-38aa-4624-85c0-299d987038ac" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/aede680a-7ec9-40fa-b1a4-bb95b7da0d0e" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/cd70821f-03c4-4168-99c1-ed7f79088a29" width="200">
 
 
 ## Contributions
