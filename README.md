@@ -19,7 +19,7 @@ This demo covers a range of ad formats, including:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/admob-demo.git
+   git clone https://github.com/PanktiSP13/GoogleAdsDemoInKotlin.git
    ```
 
 2. Open the project in Android Studio.
@@ -34,7 +34,10 @@ Explore the app to see different ad formats in action. Each section of the app d
 
 ## Screenshots
 
-[Include screenshots of the app's UI showcasing each ad format.]
+![Screenshot_20230818_163429](https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bf13315-5da0-4902-9b26-53fc5774b312)
+
+
+
 
 ## Contributions
 
