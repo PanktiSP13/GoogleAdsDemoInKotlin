@@ -34,9 +34,12 @@ Explore the app to see different ad formats in action. Each section of the app d
 
 ## Screenshots
 
-![Screenshot_20230818_163429](https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bf13315-5da0-4902-9b26-53fc5774b312)
-
-
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bf13315-5da0-4902-9b26-53fc5774b312" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/8bf8a3ec-ce0f-45e7-9e66-6bb112b5f3f3" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/9e9fba2d-ac6e-4eed-84d1-daadd526bf57" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/4bb819de-8ffa-4e76-a06c-db8ca0980b63" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/e33d13a2-4e88-41c1-b33e-1d54a65fad3d" width="200">
+<img src="https://github.com/PanktiSP13/GoogleAdsDemoInKotlin/assets/58383702/24e2f3f2-0776-43bd-9a46-96af896e5349" width="200">
 
 
 ## Contributions
